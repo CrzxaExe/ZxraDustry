@@ -1,12 +1,12 @@
 {
  "name": "Oridrill",
- "description": "Drill for early",
+ "description": "Drill from Zxra for early game farming",
  "type": "Drill",
  "size": 2,
  "tier": 5,
- "drillTime": 301,
+ "drillTime": 311,
  "requirements": [
-  { "item": "copper", "amount": 90 }
+  { "item": "copper", "amount": 60 }
  ],
  "category": "production",
  "research": "mechanical-drill"

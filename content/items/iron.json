@@ -4,8 +4,7 @@
   "description": "Basically iron ingot",
   "cost": 1,
   "research": {
-    "parent": "copper",
-    "requirements": ["copper/800"]
+    "parent": "copper"
   },
   "color": "e4e4e4"
 }
