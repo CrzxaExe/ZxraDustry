@@ -3,8 +3,8 @@
  "description": "Drill for early",
  "type": "Drill",
  "size": 2,
- "tier": 3,
- "drillTime": 200,
+ "tier": 5,
+ "drillTime": 100,
  "requirements": [
   { "item": "copper", "amount": 30 }
  ],
