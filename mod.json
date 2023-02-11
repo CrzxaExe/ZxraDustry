@@ -1,4 +1,5 @@
 name: "ZxraDustry"
 author: "CrzxaExe"
 description: "[cyan]Zxra"
-version: "1.0.0"
+version: "1.0"
+minGameVersion: "137"
