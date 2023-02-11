@@ -1,0 +1,13 @@
+{
+ "name": "Orudrill",
+ "description": "Drill for early",
+ "type": "drill",
+ "size": 2,
+ "tier": 3,
+ "drillTime": 200,
+ "requirements": [
+  { "item": "copper", "amount": 30 }
+ ],
+ "category": "drill",
+ "research": "mechanical-drill"
+}
