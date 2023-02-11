@@ -5,7 +5,7 @@
   "cost": 1,
   "research": {
     "parent": "copper",
-    "requirements": "oridrill"
+    "requirements": ["oridrill"]
   },
   "color": "e4e4e4"
 }
