@@ -1,0 +1,11 @@
+{
+  "name": "Iron ingot",
+  "type": "resource",
+  "description": "Basically iron ingot",
+  "cost": 1,
+  "research": {
+    "parent": "copper",
+    "requirements": "oridrill"
+  },
+  "color": "e4e4e4"
+}
