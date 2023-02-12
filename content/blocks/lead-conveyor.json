@@ -1,0 +1,12 @@
+{
+ "name": "Lead conveyor",
+ "description": "Normally conveyor",
+ "type": "Conveyor",
+ "health": 800,
+ "category": "distribution",
+ "speed": 5.0,
+ "requirements": [
+  { "item": "lead", "amount": 6 }
+ ],
+ "research": "conveyor"
+}
