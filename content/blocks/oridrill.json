@@ -6,7 +6,7 @@
  "tier": 6,
  "drillTime": 311,
  "requirements": [
-  { "item": "copper", "amount": 60 },
+  { "item": "copper", "amount": 70 },
   { "item": "lead", "amount": 5 }
  ],
  "category": "production",
