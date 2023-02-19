@@ -4,7 +4,7 @@
  "type": "Conveyor",
  "health": 800,
  "category": "distribution",
- "speed": 0.22,
+ "speed": 0.12,
  "requirements": [
   { "item": "lead", "amount": 6 }
  ],
